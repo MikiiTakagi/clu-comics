@@ -1,3 +1,9 @@
+---
+name: Enhancement
+about: Suggest a feature or enchancement.
+labels: enhancement, needs-review
+---
+
 ### Checklist
 - [ ] I have searched the issues and this has not been suggested yet.
 - [ ] I have checked the documentation to see if this feature already exists.
